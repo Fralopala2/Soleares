@@ -16,7 +16,7 @@ import {
 
 export default function Home() {
   return (
-    <main className="snap-y-mandatory h-screen w-full overflow-y-scroll no-scrollbar">
+    <main className="snap-y-mandatory w-full">
       <Header />
 
       {/* Hero Sections */}
